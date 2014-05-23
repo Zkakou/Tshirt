@@ -1,0 +1,4 @@
+tshirt_tshirt:
+    resource: "@TshirtTshirtBundle/Resources/config/routing.yml"
+    prefix:   /
+
